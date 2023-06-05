@@ -218,7 +218,7 @@ section > .images__grid {
   height: 20.25rem;
   margin-bottom: 3.875rem;
   margin-left: 7.0625rem;
-  width: 36rem;
+  width: 40%;
 }
 
 .container--images__grid2 {
@@ -228,7 +228,7 @@ section > .images__grid {
   height: 20.25rem;
   margin-bottom: 3.875rem;
   margin-left: 3.8125rem;
-  width: 36rem;
+  width: 40%;
 }
 
 .container--images__grid3 {
@@ -238,7 +238,7 @@ section > .images__grid {
   height: 20.25rem;
   margin-bottom: 3.875rem;
   margin-left: 7.0625rem;
-  width: 36rem;
+  width: 40%;
 }
 
 .container--images__grid4 {
@@ -248,7 +248,7 @@ section > .images__grid {
   height: 20.25rem;
   margin-bottom: 3.875rem;
   margin-left: 3.8125rem;
-  width: 36rem;
+  width: 40%;
 }
 
 .container--images__grid5 {
@@ -258,7 +258,7 @@ section > .images__grid {
   height: 20.25rem;
   margin-bottom: 8rem;
   margin-left: 7.0625rem;
-  width: 36rem;
+  width: 40%;
 }
 
 .container--images__grid6 {
@@ -268,7 +268,7 @@ section > .images__grid {
   height: 20.25rem;
   margin-bottom: 8rem;
   margin-left: 3.8125rem;
-  width: 36rem;
+  width: 40%;
 }
 
 .hover:hover {
