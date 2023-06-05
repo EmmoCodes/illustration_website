@@ -145,6 +145,12 @@ body {
   margin-right: 10rem;
 }
 
+.images__container__center {
+  width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .information__headline,
 .information__text {
   text-align: center;
@@ -263,6 +269,10 @@ section > .images__grid {
   background-size: cover;
   margin-left: 3.8369rem;
   margin-bottom: 8.0525rem;
+}
+
+.hover:hover {
+  box-shadow: 0 0 10px darkgray;
 }
 
 .membership__infotext {
